@@ -1,0 +1,9 @@
+---
+appearance: default
+columns: default
+labels: default
+settings: default
+tabs:
+  - isika-dps
+  - isika-logi
+  - isika-explo

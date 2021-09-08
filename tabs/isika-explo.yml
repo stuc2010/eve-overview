@@ -1,0 +1,20 @@
+---
+- name: ✈
+  color: FFFFBB33
+  overview: travel
+  bracket: brackets-all
+
+- name: pve
+  color: FFFFFFFF
+  overview: pve-containers
+  bracket: brackets-all
+
+- name: tactical
+  color: FF99CC00
+  overview: friendly-ships
+  bracket: brackets-all
+
+- name: escape
+  color: FFFF00FF
+  overview: extra-warpout
+  bracket: brackets-all
