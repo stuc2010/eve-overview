@@ -1,17 +1,17 @@
 ---
 - name: ✈
   color: FFFFBB33
-  overview: travel
+  overview: travel-pvp-structures
   bracket: brackets-all
 
 - name: fleet
   color: FF99CC00
-  overview: friendly-minimal
+  overview: fleet-ships
   bracket: brackets-all
 
 - name: logistics
   color: FF33B5E5
-  overview: friendly-ships-logistics
+  overview: fleet-ships-logistics
   bracket: brackets-all
 
 # [SC 21:19 08-09-2021]: Need to build up a snowflakes group to make building watchlist easier to replace the tactical group below

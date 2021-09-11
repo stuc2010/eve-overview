@@ -6,7 +6,6 @@ groups:
   - common-pve
   - containers
   - rats
-  - large_collidables
   - _ship
   - _drone
 states:
