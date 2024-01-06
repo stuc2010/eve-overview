@@ -1,0 +1,13 @@
+---
+name: small gang fw (angel)
+symbol: ♞ hostile
+level: 1
+groups:
+  - common-pvp
+  - _ship
+  - _celestial-large-collidable-object
+  - drones-combat
+  - drones-fighters
+  - entities-faction_warfare
+states:
+  - hostile

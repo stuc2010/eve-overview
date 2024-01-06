@@ -1,0 +1,30 @@
+---
+- name: ✈
+  color: FFFFBB33
+  overview: travel-pvp-structures
+  bracket: brackets-all
+
+- name: primary
+  color: FFFF4444
+  overview: hostile-minimal
+  bracket: brackets-all
+
+- name: fw
+  color: FFFF4444
+  overview: fw-pvp
+  bracket: brackets-all
+
+- name: fleet
+  color: FF99CC00
+  overview: fleet-ships
+  bracket: brackets-all
+
+- name: tactical
+  color: FF99CC00
+  overview: friendly-ships
+  bracket: brackets-all
+
+- name: disengage
+  color: FF33B5E5
+  overview: extra-warpout
+  bracket: brackets-all
