@@ -11,7 +11,7 @@
 
 - name: fw
   color: FFFF4444
-  overview: isika-faction_warfare-all
+  overview: fw-pvp
   bracket: brackets-all
 
 - name: fleet
